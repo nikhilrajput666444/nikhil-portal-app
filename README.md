@@ -23,23 +23,25 @@ The application allows users to interact with the system through a web interface
 
 ### Backend
 - Java
-- Spring Boot / Servlet (depending on project configuration)
-- Spring MVC
-- Spring Data JPA / JDBC
+- oops
+- servlet
+- jdbc
+- jsp
+- jstl
+- 
+## server
+-tomcat server
 
 ### Frontend
 - HTML
 - CSS
 - Bootstrap
-- JSP / Thymeleaf
+
 
 ### Database
 - MySQL
 
-### Build Tool
-- Maven
 
----
 
 ##  Project Structure
 
